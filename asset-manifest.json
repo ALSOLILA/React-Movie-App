@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Movie-App/static/css/main.991efe2c.css",
+    "main.js": "/React-Movie-App/static/js/main.8e08e68e.js",
+    "static/media/React-icon.svg.png": "/React-Movie-App/static/media/React-icon.svg.f6b89d232c9bc9f828e5.png",
+    "static/media/logoNetflix.png": "/React-Movie-App/static/media/logoNetflix.36843f8b45cc6bf69d1b.png",
+    "index.html": "/React-Movie-App/index.html",
+    "main.991efe2c.css.map": "/React-Movie-App/static/css/main.991efe2c.css.map",
+    "main.8e08e68e.js.map": "/React-Movie-App/static/js/main.8e08e68e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.991efe2c.css",
+    "static/js/main.8e08e68e.js"
+  ]
+}
